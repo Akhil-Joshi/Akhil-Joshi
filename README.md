@@ -1,5 +1,3 @@
-![banner](g2dh.gif)
-
 ## Hi there 👋
 
 <!--
