@@ -45,11 +45,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhileshjoshi&show_icons=true&theme=radical" alt="Akhilesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Joshi&show_icons=true&theme=radical" alt="Akhilesh's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshjoshi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Joshi&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshjoshi&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Joshi&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -59,9 +59,9 @@
 <p>
   <a href="https://github.com/Akhil-Joshi"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:akhilesh.akhiljoshi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Optional LinkedIn or Portfolio link -->
 </p>
 
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and give them a ⭐ if you like them.*
+
