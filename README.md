@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Joshi&show_icons=true&theme=radical" alt="Akhilesh's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Joshi&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com/?user=Akhil-Joshi" alt="GitHub Streak" /> -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Joshi&layout=compact&theme=radical" alt="Top Langs" />
 </p>
