@@ -13,7 +13,9 @@
 - 🌱 Exploring **Expo**, **NativeWind**, and cross-platform mobile development.
 - 💬 Ask me about **JavaScript, React, React Native, Tailwind CSS**, and anything frontend!
 - 🚀 I'm also familiar with **Python, C, C++, Unity**, and version control using **Git & GitHub**.
-- 📫 Reach me at: **akhilesh.akhiljoshi@gmail.com**
+- 📫 Reach me at: [akhilesh.akhiljoshi@gmail.com](mailto:akhilesh.akhiljoshi@gmail.com)
+- 🌐 Visit my portfolio: [akhileshjoshi.com.np](https://akhileshjoshi.com.np)
+
 
 ---
 
