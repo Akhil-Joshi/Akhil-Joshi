@@ -2,7 +2,7 @@
 <h3 align="center">Frontend App & Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Web+%26+App+Developer;HTML+CSS+Tailwind+%7C+React+%7C+React+Native+%7C+NextJs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Web+%26+App+Developer;HTML+%7C+React+%7C+React+Native+%7C+NextJs" alt="Typing SVG" />
 </p>
 
 ---
